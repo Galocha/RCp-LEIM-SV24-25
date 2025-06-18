@@ -12,7 +12,10 @@ Os temas abordados no projeto foram baseados na obra:
 ## 📁 Estrutura do Repositório
 /PROJ_RCp/
 ├── fase_1/
+│   ├── enunciado_fase1.pdf
+│   └── resolucao_fase1.pkt
 ├── fase_2/
+│   └── ...
 ├── fase_3/
 ├── fase_4/
 └── 00 - Final Project - v14-PacketTracer (1).pdf
